@@ -21,7 +21,7 @@ function App() {
       <div className="bg-white shadow-md rounded-lg p-6 w-full max-w-md">
         <h1 className="text-2xl font-bold mb-4 text-center">Todo List</h1>
 
-        <div className="flex mb-4">
+        <div className="flex mb-6">
           <input
             type="text"
             value={task}
